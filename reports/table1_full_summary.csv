@@ -1,0 +1,9 @@
+parameter,mean,ci_lo,ci_hi,rhat,n_eff
+(Intercept),-1.0481,-1.2197,-0.8744,1.001,1718
+outcomeobesity,-0.8248,-0.863,-0.7873,1,8648
+outcomeoverweight:year_c,-0.0169,-0.0559,0.0214,1.002,1968
+outcomeobesity:year_c,-0.0222,-0.0604,0.016,1.002,1995
+outcomeoverweight:year_c2,0.004,-0.0014,0.0095,1.004,1998
+outcomeobesity:year_c2,0.006,5e-4,0.0114,1.003,2055
+outcomeoverweight:age_c,-0.0094,-0.0333,0.014,1.003,2232
+outcomeobesity:age_c,0.0038,-0.0197,0.027,1.003,2222
